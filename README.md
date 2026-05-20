@@ -179,8 +179,3 @@ Then visit: `http://localhost/foodhub/`
 - [ ] Customer review & rating system
 - [ ] Restaurant analytics dashboard with charts
 - [ ] Mobile app (React Native / Flutter)
-
----
-
-## 📄 License
-Built for educational purposes. Feel free to use and extend.

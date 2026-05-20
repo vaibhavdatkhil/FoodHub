@@ -1,0 +1,68 @@
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.local
+
+# =========================
+# Database Dumps
+# =========================
+*.sql
+
+# If you want to keep schema files remove above
+# and ignore only backup sql files like:
+# *backup.sql
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Composer / PHP dependencies
+# =========================
+vendor/
+
+# =========================
+# Node modules (if React/JS used later)
+# =========================
+node_modules/
+
+# =========================
+# Uploaded Images / Dynamic Files
+# =========================
+uploads/
+assets/images/uploads/
+
+# =========================
+# Cache / Temp
+# =========================
+tmp/
+temp/
+cache/
+
+# =========================
+# PHPMailer unnecessary files
+# =========================
+includes/PHPMailer/test/
+includes/PHPMailer/examples/
+
+# =========================
+# IDE files
+# =========================
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
